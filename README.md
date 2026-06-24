@@ -206,3 +206,7 @@ Through this project I gained hands-on experience in:
 Ramadugu Nagendra Chari
 
 AI Engineer | LLM Training & Evaluation | Agentic Workflows | Analytics, Automation & Systems Thinking
+
+LinkedIn: [Ramadugu Nagendra Chari](https://www.linkedin.com/in/ramadugu-nagendra-chari-60199b225/)
+
+GitHub: [Ramadugu Nagendra Chari](https://github.com/NagendrachariRamadugu/)
